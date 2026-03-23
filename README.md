@@ -1,2 +1,2 @@
 # dndencountergen
-A simple combat encounter generator for D&amp;D 2024
+A combat encounter generator for Dungeons and Dragons 2024
