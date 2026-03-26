@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Goblin Minion",
+        "type":"Goblinoid",
+        "terrain":["forest", "grasslands", "hill", "underdark"],
+        "xp_value":25,
+        "page":142
+    },
+    {
+        "name":"Goblin Warrior",
+        "type":"Goblinoid",
+        "terrain":["forest", "grasslands", "hill", "underdark"],
+        "xp_value":50,
+        "page":142
+    },
+    {
+        "name":"Kobold Warrior",
+        "type":"Dragon",
+        "terrain":["artic", "costal", "desert", "forest", "grasslands", "hill", "mountain", "swamp", "underdark", "urban"],
+        "xp_value":25,
+        "page":185
+    }
+
+]
