@@ -4,6 +4,7 @@
         "type":"Goblinoid",
         "terrain":["forest", "grasslands", "hill", "underdark"],
         "xp_value":25,
+        "book": "2024 Monster Manual",
         "page":142
     },
     {
@@ -11,6 +12,7 @@
         "type":"Goblinoid",
         "terrain":["forest", "grasslands", "hill", "underdark"],
         "xp_value":50,
+        "book": "2024 Monster Manual",
         "page":142
     },
     {
@@ -18,6 +20,7 @@
         "type":"Dragon",
         "terrain":["artic", "costal", "desert", "forest", "grasslands", "hill", "mountain", "swamp", "underdark", "urban"],
         "xp_value":25,
+        "book": "2024 Monster Manual",
         "page":185
     }
 
