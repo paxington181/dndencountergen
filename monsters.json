@@ -22,21 +22,45 @@
         "xp_value":25,
         "book": "2024 Monster Manual",
         "page":185
-    }
+    },
     {
-        "name":"",
-        "type":"",
-        "terrain":[],
-        "xp_value":0,
+        "name":"Winged Kobold",
+        "type":"Dragon",
+        "terrain":["artic", "costal", "desert", "forest", "grasslands", "hill", "mountain", "swamp", "underdark", "urban"],
+        "xp_value":50,
         "book": "2024 Monster Manual",
-        "page":0
-    }
+        "page":185
+    },
     {
-        "name":"",
-        "type":"",
-        "terrain":[],
-        "xp_value":0,
+        "name":"Skeleton",
+        "type":"Undead",
+        "terrain":["underdark", "urban"],
+        "xp_value":50,
         "book": "2024 Monster Manual",
-        "page":0
+        "page":282
+    },
+    {
+        "name":"Warhorse Skeleton",
+        "type":"Undead",
+        "terrain":["underdark", "urban"],
+        "xp_value":100,
+        "book": "2024 Monster Manual",
+        "page":282
+    },
+    {
+        "name":"Minotaur Skeleton",
+        "type":"Undead",
+        "terrain":["underdark", "urban"],
+        "xp_value":450,
+        "book": "2024 Monster Manual",
+        "page":283
+    },
+    {
+        "name":"Flaming Skeleton",
+        "type":"Undead",
+        "terrain":["underdark", "urban"],
+        "xp_value":700,
+        "book": "2024 Monster Manual",
+        "page":282
     }
 ]
