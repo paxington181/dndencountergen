@@ -1,5 +1,7 @@
+
+
 Main
-    Read from JSON
+    Read from JSON - Done
     UI via tkinter
         Party size
         Party level
@@ -7,18 +9,23 @@ Main
         Terrain selection? 
         Encounter difficulty selection Low/Med/High
         Monster group size
+        Multiple group generation?
         "boss" encounter - One more powerful monster + minions
 
         Return monster list
             Monsters with page number from monster manual
             Number of monsters
             XP count of total encounter
+    JSON editing tool?
+
             
-JSON
+JSON - Currently sample size
     Monster entries
         Name
-        Page number
-        Species
-        Common terrain?
-        XP value
-        
+            Page number
+            Species
+            Common terrain?
+            XP value
+
+Template - instructions on how to edit JSON
+

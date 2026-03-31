@@ -1,56 +1,56 @@
 {
     "Goblin Minion": {
         "type":"Goblinoid",
-        "terrain":["forest", "grasslands", "hill", "underdark"],
+        "terrain":["Forest", "Grasslands", "Hill", "Underdark"],
         "xp_value":25,
         "book": "2024 Monster Manual",
         "page":142
     },
     "Goblin Warrior": {
         "type":"Goblinoid",
-        "terrain":["forest", "grasslands", "hill", "underdark"],
+        "terrain":["Forest", "Grasslands", "Hill", "Underdark"],
         "xp_value":50,
         "book": "2024 Monster Manual",
         "page":142
     },
     "Kobold Warrior": {
         "type":"Dragon",
-        "terrain":["artic", "costal", "desert", "forest", "grasslands", "hill", "mountain", "swamp", "underdark", "urban"],
+        "terrain":["Artic", "Costal", "Desert", "Forest", "Grasslands", "Hill", "Mountain", "Swamp", "Underdark", "Urban"],
         "xp_value":25,
         "book": "2024 Monster Manual",
         "page":185
     },
     "Winged Kobold": {
         "type":"Dragon",
-        "terrain":["artic", "costal", "desert", "forest", "grasslands", "hill", "mountain", "swamp", "underdark", "urban"],
+        "terrain":["Artic", "Costal", "Desert", "Forest", "Grasslands", "Hill", "Mountain", "Swamp", "Underdark", "Urban"],
         "xp_value":50,
         "book": "2024 Monster Manual",
         "page":185
     },
     "Skeleton": {
         "type":"Undead",
-        "terrain":["underdark", "urban"],
+        "terrain":["Underdark", "Urban"],
         "xp_value":50,
         "book": "2024 Monster Manual",
         "page":282
     },
     "Warhorse Skeleton": {
         "type":"Undead",
-        "terrain":["underdark", "urban"],
+        "terrain":["Underdark", "Urban"],
         "xp_value":100,
         "book": "2024 Monster Manual",
         "page":282
     },
     "Minotaur Skeleton": {
         "type":"Undead",
-        "terrain":["underdark", "urban"],
+        "terrain":["Underdark", "Urban"],
         "xp_value":450,
         "book" : "2024 Monster Manual",
         "page" : 283
     },
     "Flaming Skeleton": {
         "type" : "Undead",
-        "terrain": ["underdark", "urban"],
+        "terrain": ["Underdark", "Urban"],
         "xp_value" : 700,
         "book" : "2024 Monster Manual",
         "page" : 282
