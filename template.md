@@ -1,4 +1,4 @@
-    {
+    
         "(monster name)": {
             "type":"",
             "terrain":[],
@@ -6,4 +6,4 @@
             "book": "2024 Monster Manual",
             "page":0
         }
-    }
+    
