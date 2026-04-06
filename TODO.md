@@ -2,6 +2,9 @@
 
 Main
     Read from JSON - Done
+        Generated base lists for tkinter selection lists
+        Add level ranges?
+         - Extra research work here
     UI via tkinter
         Party size
         Party level
